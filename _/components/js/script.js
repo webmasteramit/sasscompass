@@ -1,1 +1,6 @@
-// JavaScript Document
+function test(){
+	
+	return "Hi There";
+	
+	
+}
